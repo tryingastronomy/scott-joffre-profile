@@ -1,6 +1,9 @@
 
 # Ph.D. Candidate
 
+## Who am I?
+
+
 ## Education
 ### Clemson University
 _2020-Present_
@@ -25,6 +28,8 @@ The Astronomer’s Telegram Contributions
 1.	ATel [#15784](https://www.astronomerstelegram.org/?read=15784%20);  **S. Joffre** (Clemson University, USA), G. La Mura (LIP, Portugal), on behalf of the Fermi Large Area Telescope Collaboration “Fermi-LAT detection of enhanced gamma-ray activity from PKS 1954-388 and PKS 0131-522”
 
 ## Awarded Proposals, Grants, and Observations
+**Total Funds Awarded:** $222,985
+**Total Observation Time Awarded:** NNN seconds
 _2023_
 - XMM-NEWTON Cycle 9: “Uncovering the most powerful jets through cosmic time” Proposal ID: 092133 
 -	NuSTAR Cycle 9: “Uncovering the most powerful jets through cosmic time” Proposal ID: 9215 - $69,860 awarded
@@ -32,9 +37,18 @@ _2023_
 -	Fermi Cycle 16: “Bridging the gap: a sensitive catalog of MeV sources”, Proposal ID: 161072 - $75,000
 -	_Swift-XRT_ Target of Opportunity
 - Clemson University Graduate Student Government Travel Grant (Spring 2023) Awarded for 20th Divisional High– Energy Astrophysics Division Conference – $1000
-- 
+- Clemson University Physics and Astronomy Graduate Student Organization Travel grant (Summer 2023): Awarded for Pennsylvania State’s Astrostatistics Summer School – $1375
+_2022_
+- Clemson University Graduate Student Government Travel Grant (Summer 2022 ): Awarded for Fermi– LAT Summer School 2022 – $750
 
-## 
+
+## Projects
+1. 3FHL - Machine Learning
+2. FAVA Galactic Flares
+3. 20-200 MeV Catalog
+4. WISE Blazar strip code
+5. Preliminary Flare Identification
+6. Novae Analysis
 
 
 
