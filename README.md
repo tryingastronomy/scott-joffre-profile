@@ -50,8 +50,3 @@ _2022_
 5. Preliminary Flare Identification
 6. Novae Analysis
 
-
-
-## Work 
-
-## Projects/Rsearch
