@@ -1,4 +1,3 @@
-# scott-joffre-profile
 
 # Ph.D. Candidate
 
