@@ -7,12 +7,14 @@
 ## Education
 ### Clemson University
 _2020-Present_
+
 Advisor: Dr. [Marco Ajello](https://science.clemson.edu/cosmicorigins/) 
 - 4th year Ph.D Candidate in Physics
 - Research Thesis: Mapping the MeV Sky and the 
 
 ### Hope College
 _2016-2020_
+
 Advisors: Dr. Jennifer Hampton (deceased), [Dr. Paul DeYoung](https://hope.edu/directory/people/deyoung-paul/index.html)
 - B.S. in Physics and Mechanical Engineering (ABET Accredited) (Magna Cum Laude)
 - Minor: Mathematics
